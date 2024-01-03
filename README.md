@@ -1,7 +1,4 @@
 # Floaty-Astronaut
-Certainly! Here's the modified description without the Unity version mention:
-
----
 
 **Floaty Astronaut Game**
 
