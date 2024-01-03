@@ -1,6 +1,6 @@
 # Floaty-Astronaut
 
-**Floaty Astronaut Game**
+**Floaty Astronaut**
 
 Floaty Astronaut is an engaging pixel art game featuring a captivating gameplay mechanism inspired by the classic Flappy Bird. Guide your astronaut through a whimsical space adventure, navigating obstacles with precision and skill.
 
