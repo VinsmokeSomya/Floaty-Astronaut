@@ -23,6 +23,6 @@ Floaty Astronaut is an engaging pixel art game featuring a captivating gameplay 
 4. Share your high scores, feedback, and contributions with the community!
 
 
-*Note: This project is developed and maintained by VinsmokeSomya. Feel free to contribute, report issues, or share your ideas for future updates.*
+*Note: This project is developed and maintained by @VinsmokeSomya. Feel free to contribute, report issues, or share your ideas for future updates.*
 
 ---
