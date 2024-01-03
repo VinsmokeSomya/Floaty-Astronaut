@@ -22,6 +22,9 @@ Floaty Astronaut is an engaging pixel art game featuring a captivating gameplay 
 3. Explore the code, assets, and customize the game to suit your vision.
 4. Share your high scores, feedback, and contributions with the community!
 
+![Start](https://github.com/VinsmokeSomya/Floaty-Astronaut/assets/117063787/7a2668ea-4d76-46ca-b217-5ec6d88b43dc)
+![Mid](https://github.com/VinsmokeSomya/Floaty-Astronaut/assets/117063787/7c8dc1c4-d6c0-4d3f-bc02-29ef1ff0e84d)
+![Game Over](https://github.com/VinsmokeSomya/Floaty-Astronaut/assets/117063787/04b8ae8e-fbfd-45ed-801a-60d7ddc308e4)
 
 *Note: This project is developed and maintained by @VinsmokeSomya. Feel free to contribute, report issues, or share your ideas for future updates.*
 
