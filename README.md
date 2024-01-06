@@ -10,8 +10,9 @@ Floaty Astronaut is an engaging pixel art game featuring a captivating gameplay 
 - **Flappy Bird Mechanism:** Master the intuitive controls reminiscent of Flappy Bird, offering a familiar yet challenging gameplay experience.
 
 **How to Play:**
-1. **Tap to Float:** Control your astronaut by tapping the screen, maintaining a delicate balance to avoid obstacles.
-2. **Navigate Challenges:** Test your reflexes as you navigate through space-themed challenges, with increasing difficulty.
+1. **Play Game:** https://play.google.com/store/apps/dev?id=8645769112609220728
+2. **Tap to Float:** Control your astronaut by tapping the screen, maintaining a delicate balance to avoid obstacles.
+3. **Navigate Challenges:** Test your reflexes as you navigate through space-themed challenges, with increasing difficulty.
 
 **Getting Started:**
 1. Clone the repository: `git clone https://github.com/VinsmokeSomya/floaty-astronaut.git`
