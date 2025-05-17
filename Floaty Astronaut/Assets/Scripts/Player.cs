@@ -5,12 +5,9 @@ public class Player : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public Sprite[] sprites;
     private int spriteIndex;
-
     private Vector3 direction;
-
     public float gravity = -9.8f;
     public float strenght = 5f;
-
     public GameManager GameManager;
 
     private void Update()
@@ -22,7 +19,6 @@ public class Player : MonoBehaviour
         if (Input.touchCount > 0)
         {
             Touch touch = Input.GetTouch(0);
-
             if (touch.phase == TouchPhase.Began)
             {
                 direction = Vector3.up * strenght;
@@ -47,7 +43,6 @@ public class Player : MonoBehaviour
 
     private void OnEnable()
     {
-
         if (GameManager.ContinueButton.activeSelf)
         {
             Vector3 position = transform.position;
@@ -71,9 +66,7 @@ public class Player : MonoBehaviour
         {
             spriteIndex = 0;
         }
-
         spriteRenderer.sprite = sprites[spriteIndex];
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)

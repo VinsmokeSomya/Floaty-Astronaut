@@ -3,7 +3,6 @@ using UnityEngine;
 public class Parallex : MonoBehaviour
 {
     private MeshRenderer meshRenderer;
-
     public float animationSpeed = 1f;
 
     private void Awake()

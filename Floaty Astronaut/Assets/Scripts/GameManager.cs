@@ -3,27 +3,16 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     private int score;
-
     public Player player;
-
     public Text scoreText;
-
     public GameObject playButton;
-
     public GameObject PauseButton;
-
     public GameObject ContinueButton;
-
     public GameObject QuitButton;
-
     public GameObject gameOver;
-
     public GameObject GetReady;
-
     private int difficultyLevel = 1;
-
     private int maxDifficultyLevel = 5;
-
     private int scoreToNextLevel = 20;
 
     [SerializeField]
@@ -46,12 +35,9 @@ public class GameManager : MonoBehaviour
 
         playButton.SetActive(false);
         gameOver.SetActive(false);
-
         GetReady.SetActive(true);
-
         Time.timeScale = 1f;
         player.enabled = true;
-
         GetReady.SetActive(false);
         PauseButton.SetActive(true);
 
@@ -120,7 +106,6 @@ public class GameManager : MonoBehaviour
 
         if (score >= scoreToNextLevel)
             LevelUp();
-        
     }
 
     public void LevelUp()
@@ -139,5 +124,4 @@ public class GameManager : MonoBehaviour
         Application.Quit();
         Debug.Log("QUIT!");
     }
-
 }
