@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/42c82760-ce5b-40c4-a6ef-270458e50098
 
 ## 🛠️ Technologies Used
 
-*   **Engine**: Unity
+*   **Engine**: Unity 6000.1.1f1
 *   **Language**: C# (v9.0)
 *   **IDE**: Visual Studio 2022
 *   **Ads**: Google Mobile Ads (AdMob)
