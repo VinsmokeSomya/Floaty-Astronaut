@@ -30,6 +30,14 @@
 You can play Floaty Astronaut directly in your browser or mobile device by visiting the following link: Play  
 **[Floaty Astronaut](https://vinsmokesomya.github.io/Floaty-Astronaut/)** 
 
+
+---
+
+## 🕹️ How to Play
+
+1.  **Play Game:** [Play Store](https://play.google.com/store/apps/dev?id=8645769112609220728)
+2.  **Tap to Float:** Control your astronaut by tapping the screen, maintaining a delicate balance to avoid obstacles.
+3.  **Navigate Challenges:** Test your reflexes as you navigate through space-themed challenges, with increasing difficulty.
 ---
 
 ## 🕹️ Game Overview
@@ -70,18 +78,6 @@ https://github.com/user-attachments/assets/42c82760-ce5b-40c4-a6ef-270458e50098
 *   **Mouse**: Left Click to Thrust
 *   **Keyboard**: Spacebar to Thrust
 *   **Touchscreen**: Tap screen to Thrust
-
----
-
-## 🕹️ How to Play
-
-1.  **Start**: Tap the "Play" button to begin.
-2.  **Thrust**: Tap, click, or press `Spacebar` to float upward.
-3.  **Dodge**: Avoid colliding with space debris and obstacles.
-4.  **Score**: Survive longer and pass through gaps to earn points.
-5.  **Adapt**: The longer you float, the more intense it gets.
-6.  **Pause**: Use the "Pause" button to pause the game and resume later.
-7.  **Try Again**: On Game Over, press "Play" to retry.
 
 ---
 
